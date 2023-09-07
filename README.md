@@ -35,6 +35,6 @@ To run the Dino Runner Game project, you'll need:
 
 3. Compile and run the `UserInterface.java` file to start the game.
 
-
+## Screenshots
 ![Moment of jump](https://github.com/nabhoneel/chrome-dino-game/raw/master/Screenshot%202018-11-30%2017.49.33.png)
 ![Just died, eyes widened due to shock](https://github.com/nabhoneel/chrome-dino-game/raw/master/Screenshot%202018-11-30%2017.49.43.png)
